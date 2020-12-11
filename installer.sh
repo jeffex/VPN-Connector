@@ -37,4 +37,6 @@ else
 	exit 1
 fi
 
+chmod +x /opt/VPN-connector/connect.sh
+
 echo "Instalação realizada com sucesso!!!"
